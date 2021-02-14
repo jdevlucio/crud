@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Escola Feliz</string>
+    <string name="cadastro">Cadastro de aluno</string>
+    <string name="mensagem">Mensagens dos contatos</string>
+</resources>
